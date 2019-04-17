@@ -1,2 +1,4 @@
 # DevJournal
-Snippets/Tips/Tricks
+
+* ToDo:
+  [ ] dot files for vimrc and tmux
