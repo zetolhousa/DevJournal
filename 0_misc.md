@@ -9,3 +9,10 @@ Random stuff
 - Set alias in PowerShell
 	- `Function <var_name> {Set-Location <full_path>}`
 	- `Set-Alias -Name <the_alias> -Value <var_name>`
+- Setting up WSL
+	- Set aliases file `.bash_aliases`
+	- Set proxy **/etc/apt/apt.conf**
+		`Acquire::http::Proxy "http://...@...:xxx";`
+	- Sudo apt update
+	- Sudo apt install build-essential
+	- Sudo apt install python3, python3-pip
