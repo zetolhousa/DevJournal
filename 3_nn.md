@@ -1,0 +1,10 @@
+- [NN and DL](http://neuralnetworksanddeeplearning.com/chap1.html): probably the most recommended online book
+- [victorzhou blog](https://victorzhou.com/blog/intro-to-cnns-part-1/): not read but recommended
+- [How NNs are trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/): meh but 'further reading' links are great
+  - [step by step backprop](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/): very detailed and easy to grab
+- [PDE by 3b1b](https://www.youtube.com/watch?v=ly4S0oi3Yz8): math | YT
+- [3b1b on NNs](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): playlist | YT
+- [NN in 13 lines of py](https://iamtrask.github.io/2015/07/27/python-network-part2/): a good start point imo
+- [NN cs231](http://cs231n.github.io/neural-networks-1/): academic | mathy | high level
+- [recipe for training NN](https://karpathy.github.io/2019/04/25/recipe/): advanced tips | for later
+- [guide to tensorflow](https://rubikscode.net/2019/04/22/ultimate-guide-to-tensorflow-2-0-in-python/): intro guide | for later
