@@ -16,3 +16,8 @@ Random stuff
 	- Sudo apt update
 	- Sudo apt install build-essential
 	- Sudo apt install python3, python3-pip
+- Linux commands
+	- To see and also save command ouputs [src](https://askubuntu.com/a/731237)
+		- `<cmd> |& tee output_file`
+	- See apt installed packages
+		- `apt list --installed`
